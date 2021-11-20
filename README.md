@@ -11,4 +11,4 @@ gradlew install
  
 ## 相关链接 (Links)
 - QQ群号 (QQ group number)：[957349602](https://jq.qq.com/?_wv=1027&k=AUUDu7tP)
-- 开黑啦：[91931338](https://kaihei.co/2jEvSu)
+- 开黑啦：[91931338](https://kaihei.co/2jEvSu), https://kaihei.co/2jEvSu
